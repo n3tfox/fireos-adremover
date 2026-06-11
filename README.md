@@ -1,6 +1,6 @@
 # fireos-adremover
 
-Remove (or restore) lockscreen ads on Amazon Fire tablets using a script. Tested on Fire Max 11 (Fire OS 8).
+Remove (or restore) lockscreen ads on Amazon Fire tablets using a script. Tested on Fire Max 11 (Fire OS 8). Needed a tool but couldn't find the option in Fire Toolbox so I made this.
 
 ## Requirements
 
